@@ -21,7 +21,6 @@ def processar_site(url: str) -> list:
         return []
 
 if __name__ == "__main__":
-    # Exemplo de uso
     url = input("Digite a URL do site: ")
     
     print("Iniciando processamento do site...")
